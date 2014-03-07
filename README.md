@@ -1,4 +1,4 @@
-##  人工知能学会誌 解説「業務ルール管理システムBRMSの動向」のサンプルリポジトリおよびプログラム
+##  人工知能学会誌 解説「業務ルール管理システムBRMSの動向」のサンプルリポジトリとプログラム
 
 ### 科研費国内出張に関するGuvnorのサンプルリポジトリ
  * [Guided Rule Editorのみを用いてルールを作成したGuvnorのリポジトリ] (https://github.com/t-morita/GuvnorExamples/blob/master/SampleRepositories/normal_repository_export.zip)
