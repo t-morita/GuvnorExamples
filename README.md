@@ -38,7 +38,7 @@
  3. Eclipseを起動し，”Help”メニューから“Install new software...”を選択
  4. “Add...”ボタンを押して，“drools local update site”と入力し，“Local...”ボタンを押して，2.で解凍したフォルダにあるorg.drools.updatesiteフォルダを選択する
  5. Nextボタンを押して，最後にFinishボタンを押す
- 6. Eclipse環境設定のGuvnorメニューより，「Guvnor URL Template」にインストールしたGuvnorのwebdavのURLを設定することで，指定したGuvnor上のパッケージ一覧，パッケージ内のアセット，アセットの更新履歴などが参照可能となる．
- 7. Eclipse環境設定のDroolsメニューより，「Installed Drools Runtimes」として，ダウンロードした「drools-distribution」のbinariesディレクトリを設定することで，Droolsプロジェクトの作成が可能となる．
+ 6. Eclipse環境設定のGuvnorメニューより，「Guvnor URL Template」にインストールしたGuvnorのwebdavのURL(例：http://localhost:8080/guvnor-5.5.0.Final-jboss-as-7.0/org.drools.guvnor.Guvnor/webdav/)を設定することで，指定したGuvnor上のパッケージ一覧，パッケージ内のアセット，アセットの更新履歴などが参照可能となる．
+ 7. Eclipse環境設定のDroolsメニューより，「Installed Drools Runtimes」として，ダウンロードした「drools-distribution」のbinariesディレクトリ(例：/Users/t_morita/Downloads/drools-distribution-5.5.0.Final/binaries)を設定することで，Droolsプロジェクトの作成が可能となる．
  8. Droolsプロジェクトを作成すると，Drools関連ライブラリのクラスパスへの追加などが自動で行われる．また，パッケージのスナップショットを作成することにより，Javaプログラムにより外部からGuvnor上で作成したアセットにアクセス可能となる．
 
